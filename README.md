@@ -3,7 +3,7 @@
 
 ### Descripción
 
-Es una aplicación de escritorio realizada en java, su interfaz gráfica de usuario es realizada con Netbeans, en esta demo puedes ver las diferentes ventanas que usa la aplicación.
+Es una aplicación de escritorio realizada en java, su interfaz gráfica de usuario es realizada con Netbeans, en esta demo puedes explorar las diferentes funcionalidades que tiene la aplicación.
 Puedes ejecutarla abriendo el archivo lacsof_version_5.1.jar
 
 ### Lenguaje
