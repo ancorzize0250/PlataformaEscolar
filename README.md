@@ -11,7 +11,7 @@ Puedes ejecutarla abriendo el archivo lacsof_version_5.1.jar
 Java
 
 # Conexión base de datos
-Se desarrolló una conexion a mysql, no es posible compartir su conexión
+Su base de datos es desarrollada en mysql, no es posible compartir su conexión y sus tablas
 
 
 
